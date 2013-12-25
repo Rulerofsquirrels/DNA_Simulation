@@ -4,7 +4,7 @@
 
 #include "stdafx.h"
 #include "DNA_Simulation.h"
-
+#include "DNATile.h"
 #include "MainFrm.h"
 
 #ifdef _DEBUG
